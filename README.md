@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mtau6190-dot/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mtau6190-dot/azure-network-protocols)
+  - [Configured On-premises Active Directory within Azure VMs](https://github.com/mtau6190-dot/Configuring-On-premises-Active-Directory-within-Azure-VMs)
 
 <h2>🤳Connect with me:</h2>
 

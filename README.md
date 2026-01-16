@@ -4,6 +4,8 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Help Desk Ticketing System Deployment (Azure)](https://github.com/mtau6190-dot/osTicket-Help-Desk-Ticketing-System-Deployment-Azure-)
+  - [osTicket:Helpdesk Configuration](https://github.com/mtau6190-dot/osTicket-Helpdesk-Configuration)
+    
 - <b>Microsoft Azure</b>
   - [Configured On-premises Active Directory within Azure VMs](https://github.com/mtau6190-dot/Configuring-On-premises-Active-Directory-within-Azure-VMs)
 

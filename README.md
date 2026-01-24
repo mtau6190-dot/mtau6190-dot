@@ -6,8 +6,11 @@
   - [osTicket: Help Desk Ticketing System Deployment (Azure)](https://github.com/mtau6190-dot/osTicket-Help-Desk-Ticketing-System-Deployment-Azure-)
   - [osTicket:Helpdesk Configuration](https://github.com/mtau6190-dot/osTicket-Helpdesk-Configuration)
     
-- <b>Microsoft Azure</b>
+- <b>Active Directory with Microsoft Azure</b>
   - [Configured On-premises Active Directory within Azure VMs](https://github.com/mtau6190-dot/Configuring-On-premises-Active-Directory-within-Azure-VMs)
+ 
+- <b>DNS with Microsoft Azure</b>
+  - [Hands-on Practise with DNS](https://github.com/mtau6190-dot/Configuring-On-premises-Active-Directory-within-Azure-VMs)
 
 <h2>🤳Connect with me:</h2>
 

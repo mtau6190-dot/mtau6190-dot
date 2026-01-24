@@ -10,7 +10,7 @@
   - [Configured On-premises Active Directory within Azure VMs](https://github.com/mtau6190-dot/Configuring-On-premises-Active-Directory-within-Azure-VMs)
  
 - <b>DNS with Microsoft Azure</b>
-  - [Hands-on Practise with DNS](https://github.com/mtau6190-dot/Configuring-On-premises-Active-Directory-within-Azure-VMs)
+  - [Hands-on Practise with DNS](https://github.com/mtau6190-dot/dns-basics-hands-on)
 
 <h2>🤳Connect with me:</h2>
 
